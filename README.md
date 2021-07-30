@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 <h3 align="center">I'm Shubham Singh, a Final year B.Tech Computer Science and Engineering Undergrad at VIT-Chennai. I'm a Web developer.</h3>
 
-- 🔭 I’m currently working on [Bonjour Video Chatting App](https://github.com/sstring1208/contact_manager)
+- 🔭 I’m currently working on [Bonjour Video Chatting App](https://github.com/sstring2015/Bonjour)
 
 - 🌱 I’m currently learning **React.Js**
 
