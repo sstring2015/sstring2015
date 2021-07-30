@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Bonjour Video Chatting App](https://github.com/sstring2015/Bonjour)
 
-- 🌱 I’m currently learning **React.Js**
+- 🌱 I’m currently learning **React.Js, WebRTC and Socket.io**
 
 - 📫 How to reach me **singhshubham7m@gmail.com**
 
